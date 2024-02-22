@@ -20,7 +20,7 @@ function Footer() {
             style={{ color: "white" }}
             href="https://github.com/Abderraouf-Rahmani"
           >
-            &nbsp; Abderraouf
+            &nbsp; Oguz
           </a>
         </p>
       </footer>
